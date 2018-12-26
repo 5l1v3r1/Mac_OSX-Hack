@@ -2,9 +2,9 @@
 
 # README 
 
-This repo wont contain any scripts or previews, It will just be a simple guide for how you will take over root access  on any Apple Device running MacOSX. (iMac, Macbooks etc)
+This repo wont contain any scripts or previews, It will just be a simple guide for how you will be able to take over root access on any Apple Device running MacOSX no matter wich version of OSX. (iMac, Macbook devices etc)
 
-I have created this repository as an reminder for myself, with below commands you will gain 100% full control of all users data and take over root access of any OSX device aslong root partition has not been encrypted.
+I have created this repository as an reminder for myself. With below commands you will gain 100% full control of all users data and take over root access of any OSX device aslong root partition has not been encrypted.
 
 # HOWTO 
 
@@ -13,11 +13,11 @@ Boot your osx device to Single-User Mode by pressing:
     MacOSX Keyboard:  Command (⌘)—S:
     Windows Keyboard: Windows Button + S
     
-When system have booted, mount root:
+### When system have booted, mount root:
 
     /sbin/mount -wu /
   
-Take over root account: 
+### Take over root account by changing root password:
 
     passwd 
      Enter Password:
