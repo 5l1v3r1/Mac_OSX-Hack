@@ -17,7 +17,7 @@ Boot your osx device to Single-User Mode by pressing:
 
     /sbin/mount -wu /
   
-### Take over root account by changing root password:
+### Take over root account by changing root password followed by remove .AppleSetupDone file:
 
     passwd 
      Enter Password:
