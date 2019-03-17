@@ -41,8 +41,6 @@ If you're smart, asap you have logged in on the user(s) account open all web bro
 the owner MIGHT sync the settings and all passwords will be gone. Also before you will run the reboot command from single user mode backup ALL web browser settings to an usb or something in case the owner 
 already has synced the data. Usually all such settings is stored in ~/.config/google-chrome and ~/.mozilla etc etc.. 
 
-![Screenshot](https://nr1.nu/archive/images/hqdefault.jpg)
-
 #### REQUIREMENTS
 
 A macosx device
