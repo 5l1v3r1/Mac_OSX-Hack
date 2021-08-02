@@ -1,7 +1,5 @@
 # Mac_OSX-Hack
 
-# README 
-
 This repo wont contain any scripts or previews, It will just be a simple guide for how you will be able to take over root access of any Apple Device running MacOSX no matter wich version of OSX. (iMac, Macbook devices etc)
 
 I have created this repository as an reminder for myself. With below commands you will gain 100% full control of all users data and take over root access of any OSX device aslong root partition has not been encrypted.
